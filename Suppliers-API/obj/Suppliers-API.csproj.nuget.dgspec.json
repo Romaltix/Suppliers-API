@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\romal\\OneDrive\\Рабочий стол\\WORK\\#ИНФРАСТРУКТУРА\\#Автоматизация\\API-интеграция с поставщиками\\Suppliers-API\\Suppliers-API\\Suppliers-API\\Suppliers-API.csproj": {}
+    "D:\\GitHub\\Suppliers-API\\Suppliers-API\\Suppliers-API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\romal\\OneDrive\\Рабочий стол\\WORK\\#ИНФРАСТРУКТУРА\\#Автоматизация\\API-интеграция с поставщиками\\Suppliers-API\\Suppliers-API\\Suppliers-API\\Suppliers-API.csproj": {
+    "D:\\GitHub\\Suppliers-API\\Suppliers-API\\Suppliers-API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\romal\\OneDrive\\Рабочий стол\\WORK\\#ИНФРАСТРУКТУРА\\#Автоматизация\\API-интеграция с поставщиками\\Suppliers-API\\Suppliers-API\\Suppliers-API\\Suppliers-API.csproj",
+        "projectUniqueName": "D:\\GitHub\\Suppliers-API\\Suppliers-API\\Suppliers-API.csproj",
         "projectName": "Suppliers-API",
-        "projectPath": "C:\\Users\\romal\\OneDrive\\Рабочий стол\\WORK\\#ИНФРАСТРУКТУРА\\#Автоматизация\\API-интеграция с поставщиками\\Suppliers-API\\Suppliers-API\\Suppliers-API\\Suppliers-API.csproj",
+        "projectPath": "D:\\GitHub\\Suppliers-API\\Suppliers-API\\Suppliers-API.csproj",
         "packagesPath": "C:\\Users\\romal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\romal\\OneDrive\\Рабочий стол\\WORK\\#ИНФРАСТРУКТУРА\\#Автоматизация\\API-интеграция с поставщиками\\Suppliers-API\\Suppliers-API\\Suppliers-API\\obj\\",
+        "outputPath": "D:\\GitHub\\Suppliers-API\\Suppliers-API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
